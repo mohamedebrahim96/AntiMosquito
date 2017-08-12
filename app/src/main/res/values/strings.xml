@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Anti Mosquito</string>
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+    <string name="action_settings">Settings</string>
+    <string name="ss"><font size="20">made by</font><font size="25"><b> Vacuum, Inc</b></font></string>
+</resources>
